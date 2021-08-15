@@ -17,7 +17,7 @@ Our code is rewritten from PARL, so the data set is required to be similar to PA
 
 Our dataset is one more than PARL:Item Auxiliary Review Document: file_name=ItemAuxiliaryReviews.out.
 
-# Note that: all files need to be located in the same directory
+Note that: all files need to be located in the same directory
 
 # To run the experiments:
 
