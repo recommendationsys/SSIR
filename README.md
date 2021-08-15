@@ -4,8 +4,11 @@
 
 # Requirements
 Tensorflow 1.2-2.4
+
 Python 2.7, 3.5-3.7
+
 Numpy
+
 Scipy
 
 # Data Preparation
