@@ -1,6 +1,10 @@
 # SSIR
 
+This is our implementation for the paper:
 
+"Shared-view and Specific-view Information Extraction for Recommendation"
+
+If you use the codes, please cite our paper. Thanks!
 
 # Requirements
 Tensorflow 1.2-2.4
