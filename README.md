@@ -19,7 +19,7 @@ Scipy
  
 Our code is rewritten from PARL, so the data set is required to be similar to PARL. Details can be found at https://github.com/WHUIR/PARL. 
 
-Our dataset is one more than PARL:Item Auxiliary Review Document: file_name=ItemAuxiliaryReviews.out.
+Our dataset is one more dataset than PARL:Item Auxiliary Review Document: file_name=ItemAuxiliaryReviews.out.
 
 Note that: all files need to be located in the same directory
 
